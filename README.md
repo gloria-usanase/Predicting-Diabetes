@@ -20,7 +20,7 @@ Python
 
 ## Goal
 
-The goal for this analysis is to be able to predict the salary for a job position based on certain attributes.
+The goal for this analysis is to build a multilayer perceptron (MLP) that can predict whether a patient is at risk of diabetes.
 
 ## Dataset
 
