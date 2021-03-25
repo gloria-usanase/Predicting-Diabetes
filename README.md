@@ -49,7 +49,7 @@ _Outcome:_ The target variable we are trying to predict, 1 for patients that dev
 ## Methodology
 
 1. _Exploratory Analysis:_ Created histograms and plot density to understand the kind of data we are working with.<br />
-   ![Histogram](./img/histogram.png) <br />
+   ![Histogram](./img/histograms.png) <br />
    ![Plotdensitymap](./img/plotdensity.png) <br />
 
 2. _Data Preprocessing:_ Checked if there are any missing values, displayed the statistical summany, performed the data standardization and split the data into training, testing and validation sets.. <br />
