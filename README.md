@@ -12,7 +12,7 @@ Diabetes prediction project
 
 ## Introduction
 
-This project is from the second chapter of the book [Neural Network Projects with Python](https://www.packtpub.com/big-data-and-business-intelligence/neural-network-projects-python?utm_source=github&utm_medium=repository), published by Packt. The model is built using a multilayer perceptron (MLP) that can predict whether a patient is at risk of diabetes.
+This project is a class project to predict diabetes with multilayer perceptrons.
 
 ## Technologies
 
